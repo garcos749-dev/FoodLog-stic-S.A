@@ -1,9 +1,8 @@
-# FoodLog-stic-S.A.
+# Web Corporativa de FoodLog-stic-S.A.
 
+Aquesta és la web corporativa de FoodLog-stic-S.A., una empresa fictícia dedicada a la distribució i logística alimentària a nivell nacional amb seu a Mataró. Arran de l'obertura de noves rutes i la contractació de més personal, el seu volum de dades i les seves necessitats de comunicació s'han multiplicat.
 
-# Web Corporativa de [Fluxo]
-
-Aquesta és la web corporativa de [Nom de l'Empresa], una empresa fictícia dedicada a [descripció breu de l'empresa] dins el mòdul *Projecte Intermodular*.
+La seva infraestructura actual s'ha quedat petita i pateixen per la seguretat i la continuïtat del negoci. Han contactat amb la vostra empresa informàtica perquè els ajudeu a modernitzar-se. Us demanen actuar en tres àrees clau:
 
 ## Demostració
 
