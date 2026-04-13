@@ -18,4 +18,4 @@ Per la creació d'aquesta web, s'han utilitzat les següents tecnologies i eines
 
 ## Autor
 
-👤 [Javier García]
+👤 Javier García
