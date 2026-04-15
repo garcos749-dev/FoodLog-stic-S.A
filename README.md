@@ -13,6 +13,7 @@ La seva infraestructura actual s'ha quedat petita i pateixen per la seguretat i 
 Per la creació d'aquesta web, s'han utilitzat les següents tecnologies i eines:
 
 - Indiqueu l'eina IA que heu utilitat.
+- Claude
 - HTML5/CSS3
 - Statcounter per l'analítica
 
