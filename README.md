@@ -6,7 +6,7 @@ La seva infraestructura actual s'ha quedat petita i pateixen per la seguretat i 
 
 ## Demostració
 
-[🌐 URL de la web][FoodLog STIC S.A](https://garcos749-dev.github.io/FoodLog-stic-S.A/)
+[FoodLog STIC S.A](https://garcos749-dev.github.io/FoodLog-stic-S.A/)
 
 ## Tecnologies Utilitzades
 
